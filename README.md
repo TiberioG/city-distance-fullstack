@@ -2,7 +2,8 @@
 
 This is a web application that calculates the distance between two cities. It uses React with TypeScript as the frontend framework and the serverless framework to crate a backend service using AWS Lambda and API Gateway. 
 
-You can find the deployed application [here](https://master.disqokagsd5iq.amplifyapp.com/)
+~~You can find the deployed application [here](https://master.disqokagsd5iq.amplifyapp.com/)~~ Deployed app has been disabled to avoid unnecessary costs, you can deploy the application to your own AWS account.
+
 
 ## Architecture
 ![Architecture](architecture.png)  
